@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://twitter.com/iraghavan_ceo" target="blank"><img src="https://img.shields.io/twitter/follow/iraghavan_ceo?logo=twitter&style=for-the-badge" alt="iraghavan_ceo" /></a> </p>
 
-- 🔭 I’m currently working on [Bumble Bees - Project Development](https://github.com/iamraghavan/WebPage)
+- 🔭 I’m currently working on [Vanshavali - Project Development](https://github.com/iamraghavan/Vanshavali)
 
 - 🌱 I’m currently learning **React JS, React Native**
 
-- 👯 I’m looking to collaborate on [Kottingham Daycare](https://github.com/iamraghavan/Kottingham-Daycare)
+- 👯 I’m looking to collaborate on [Safyr Solutions](https://github.com/iamraghavan/)
 
 - 👨‍💻 All of my projects are available at [https://anburaghavan.netlify.app/](https://anburaghavan.netlify.app/)
 
