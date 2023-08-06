@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [https://blog.bumblebees.co.in/profile/iamraghavan](https://blog.bumblebees.co.in/profile/iamraghavan)
 
-- 💬 Ask me about **Bootstrap, PHP, MySql, Java, Python**
+- 💬 Ask me about **Bootstrap, PHP, MySql, Javascript, Python**
 
 - 📫 How to reach me **pradeep@bumblebees.co.in**
 
