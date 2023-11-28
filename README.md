@@ -9,13 +9,11 @@
 
 - 👯 I’m looking to collaborate on [Safyr Solutions](https://github.com/iamraghavan/)
 
-- 👨‍💻 All of my projects are available at [https://anburaghavan.netlify.app/](https://anburaghavan.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://jsraghavan.me/](https://jsraghavan.me/)
 
-- 📝 I regularly write articles on [https://blog.bumblebees.co.in/profile/iamraghavan](https://blog.bumblebees.co.in/profile/iamraghavan)
+- 💬 Ask me about **Bootstrap, PHP, MySql, Javascript, Python, Firebase**
 
-- 💬 Ask me about **Bootstrap, PHP, MySql, Javascript, Python**
-
-- 📫 How to reach me **pradeep@bumblebees.co.in**
+- 📫 How to reach me **sayhello@jsraghavan.me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
