@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on [Kurudhi.com](https://kurudhi.com/)
 
-- 🌱 I’m currently learning **sveltejs, core java**
+- 🌱 I’m currently learning **svelte, core java, Node JS**
 
-- 👯 I’m looking to collaborate on [Gogreen LLC - Wordpress Development](https://gogreenllc.org/)
+- 👯 I’m looking to collaborate on [Gogreen LLC - WordPress Development](https://gogreenllc.org/)
 
 - 🤝 I’m looking for help with [Vaibhaav LLC - Payment Gateway Integration](https://theiafashions.com/)
 
@@ -15,7 +15,7 @@
 
 - 📝 I regularly write articles on [jsraghavan.me/blog](jsraghavan.me/blog)
 
-- 💬 Ask me about **Javascript, Digital Marketing, Web Development**
+- 💬 Ask me about **Javascript, Laravel (PHP), Digital Marketing, Web Development**
 
 - 📫 How to reach me **sayhello@jsraghavan.me**
 
