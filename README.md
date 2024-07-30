@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Raghavan</h1>
 <h3 align="center">Entrepreneurial spirit and unwavering work ethic allow him to see opportunities where others see obstacles, making him a force to be reckoned with in any industry.</h3>
 
-<p align="left"> <a href="https://twitter.com/iraghavan_ceo" target="blank"><img src="https://img.shields.io/twitter/follow/iraghavan_ceo?logo=twitter&style=for-the-badge" alt="iraghavan_ceo" /></a> </p>
+<p align="left"> <a href="https://twitter.com/raghavanjeeva" target="blank"><img src="https://img.shields.io/twitter/follow/iraghavan_ceo?logo=twitter&style=for-the-badge" alt="raghavanjeeva" /></a> </p>
 
 - 🔭 I’m currently working on [Kurudhi.com](https://kurudhi.com/)
 
-- 🌱 I’m currently learning **svelte, core java, Node JS**
+- 🌱 I’m currently learning **Go Lang / IT security (Cybersecurity) / Networking**
 
-- 👯 I’m looking to collaborate on [Gogreen LLC - WordPress Development](https://gogreenllc.org/)
+- 👯 I’m looking to collaborate on [EGS Pillay Group of Institutions](https://production.egspec.org/)
 
 - 🤝 I’m looking for help with [Vaibhaav LLC - Payment Gateway Integration](https://theiafashions.com/)
 
