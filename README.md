@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/raghavanjeeva" target="blank"><img src="https://img.shields.io/twitter/follow/raghavanjeeva?logo=twitter&style=for-the-badge" alt="raghavanjeeva" /></a> </p>
 
-- 🔭 I’m currently working on [EGS Pillay Group of Institutions CMS / Website](https://egspec.org)
+- 🔭 I’m currently working on the EGS Pillay Group of Institutions CMS and website development project, which can be accessed at [EGS Pillay Group of Institutions CMS / Website](https://egspec.org)
 
 - 🌱 I’m currently learning **Kali Linux / Windows Server 2022 / Burp Suite**
 
