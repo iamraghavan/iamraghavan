@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on the EGS Pillay Group of Institutions CMS and website development project, which can be accessed at [EGS Pillay Group of Institutions CMS / Website](https://egspec.org)
 
-- 🌱 I’m currently learning **Kali Linux / Windows Server 2022 / Burp Suite**
+- 🌱 I’m currently learning **Kali Linux / Windows Server 2022 / Burp Suite / Flutter**
 
 - 👯 I’m looking to collaborate on [GoGreen LLC - Payment Gateway Integration](https://gogreenllc.org/)
 
